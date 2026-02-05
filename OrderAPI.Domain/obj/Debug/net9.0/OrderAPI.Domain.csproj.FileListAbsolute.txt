@@ -1,0 +1,11 @@
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\bin\Debug\net9.0\OrderAPI.Domain.deps.json
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\bin\Debug\net9.0\OrderAPI.Domain.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\bin\Debug\net9.0\OrderAPI.Domain.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.AssemblyInfoInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.AssemblyInfo.cs
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.csproj.CoreCompileInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\refint\OrderAPI.Domain.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\OrderAPI.Domain.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Domain\obj\Debug\net9.0\ref\OrderAPI.Domain.dll

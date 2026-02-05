@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "x/97VdnTFfWALt3d5YNfvbVVTadBtnDlF23pmw7N6ao=",
+  "Source": "OrderAPI.Web",
+  "BasePath": "_content/OrderAPI.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,17 @@
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.DataAccess.deps.json
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.DataAccess.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.DataAccess.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.Business.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.Domain.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.Domain.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\bin\Debug\net9.0\OrderAPI.Business.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.csproj.AssemblyReference.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.AssemblyInfoInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.AssemblyInfo.cs
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.A40D8F92.Up2Date
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\refint\OrderAPI.DataAccess.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\OrderAPI.DataAccess.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.DataAccess\obj\Debug\net9.0\ref\OrderAPI.DataAccess.dll

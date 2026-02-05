@@ -1,0 +1,15 @@
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\bin\Debug\net9.0\OrderAPI.Business.deps.json
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\bin\Debug\net9.0\OrderAPI.Business.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\bin\Debug\net9.0\OrderAPI.Business.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\bin\Debug\net9.0\OrderAPI.Domain.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\bin\Debug\net9.0\OrderAPI.Domain.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.csproj.AssemblyReference.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.AssemblyInfoInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.AssemblyInfo.cs
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.csproj.CoreCompileInputs.cache
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.5EAE9A0F.Up2Date
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\refint\OrderAPI.Business.dll
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\OrderAPI.Business.pdb
+C:\ohjelmistoarkkitehtuuri\OrderAPI\OrderAPI.Business\obj\Debug\net9.0\ref\OrderAPI.Business.dll
