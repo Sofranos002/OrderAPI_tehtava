@@ -8,3 +8,10 @@ Layered Architecture osoittautui edelleen huomattavasti selkeämmäksi ja varmaa
 
 Haasteita:
 Tehdessä tätä kohtasin USEITA pieniä mutta opettavaisia ongelmia, jotka liittyivät erityisesti kerrosarkkitehtuurin rakenteeseen ja projektien välisiin riippuvuuksiin! Alussa jouduin korjaamaan projektiviittauksia, koska Web‑kerros ei löytänyt Business‑kerroksen palveluita ja Business ei löytänyt Domain‑malleja, tämä sama circular dependecy ongelma, mitä aikaisemmassakin tehtävässä.
+
+Extraa:
+Tätä tehdessä kulki myös opinnäytetyön tekniset ratkaisut mielessä; esimerkkijärjestelmä, joka näyttää miten monimutkaista toimintaa kannattaa pilkkoa selkeisiin osiin. Käyttäsin tähän kerrosarkkitehtuuria: yhdessä osassa ovat itse säännöt ja logiikka, toisessa työnkulut, kolmannessa tietojen tallennus ja neljännessä käyttöliittymä ja rajapinnat.
+
+Konkreettisesti pystyisi soveltaa tätä videopelimaailmaan, jossa rahan liikkuminen on nopeaa ja monimutkaista. Yhteen kerrokseen voisi laittaa tunnistamisen säännöt, toiseen sen miten epäilyttävät tapaukset käsitellään vaihe vaiheelta, ja muissa kerroksissa hoidetaan vain tekniset asiat.
+
+Lisäksi aloin miettiä, miten tekoälyä/LLM voidaan käyttää tässä tukena: ei tietenkään tekemään päätöksiä, vaan auttamaan ihmistä lukemaan pitkiä tapauksia, kirjoittamaan raporttiluonnoksia/ vast ja etsimään ohjeita. Tarkoitus on osoittaa, että kun järjestelmä on jaettu selkeisiin osiin, sitä on helpompi ymmärtää, testata ja kehittää.
